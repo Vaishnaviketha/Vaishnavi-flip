@@ -1,0 +1,30 @@
+{
+  "Products": [
+    {
+      "productId": "wert",
+      "title": "sdfg",
+      "brand": "wqertryt",
+      "price": "23456",
+      "description": "dsfghgffjghg",
+      "thumbnail": "http://ffg.com",
+      "id": 1
+    },
+    {
+      "productId": "wert",
+      "title": "sdfg",
+      "brand": "wqertryt",
+      "price": "23456",
+      "description": "dsfghgffjghg",
+      "thumbnail": "http://ffg.com",
+      "id": 2
+    },
+    {
+      "id": "qwetyjk",
+      "title": "zxvbn",
+      "brand": "dfghj",
+      "price": "23456",
+      "description": "dfgh",
+      "image": "http://google.com"
+    }
+  ]
+}
